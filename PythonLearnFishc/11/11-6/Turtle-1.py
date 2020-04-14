@@ -20,3 +20,7 @@ class Pool:
 
 pp = Pool(1, 2)
 pp.printXY()
+# 通过__dict__查看对象所拥有的属性
+print(pp.__dict__)
+print(Pool.__dict__)
+print(pp.turtle.__dict__)
