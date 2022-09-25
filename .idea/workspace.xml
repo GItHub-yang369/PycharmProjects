@@ -25,9 +25,128 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc0d0a7-0808-43b1-806a-1430a142cc0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonLearnFishc/11/11-6/Turtle-1.py" afterDir="false" />
+    <list default="true" id="ecc0d0a7-0808-43b1-806a-1430a142cc0f" name="Default Changelist" comment="2020-04-17-version-11">
+      <change afterPath="$PROJECT_DIR$/python-selfcoding/ch01/p1-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/build/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/build/src.win-amd64-3.8/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/build/src.win-amd64-3.8/numpy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/build/src.win-amd64-3.8/numpy/distutils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/doc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/doc/scipy-sphinx-theme/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/doc/sphinxext/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/doc/sphinxext/numpydoc/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/core/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/distutils/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/f2py/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/fft/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/lib/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/linalg/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/ma/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/matrixlib/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/polynomial/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/random/mtrand/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/random/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/testing/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/numpy/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/tools/swig/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch14/numpy-1.11.2/tools/swig/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch15/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch16/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch17/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch17/cgi-bin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch18/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch19/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/beautifulsoup4-4.6.0/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/beautifulsoup4-4.6.0/build/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/beautifulsoup4-4.6.0/build/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/beautifulsoup4-4.6.0/doc.zh/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/beautifulsoup4-4.6.0/doc.zh/source/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/beautifulsoup4-4.6.0/doc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/beautifulsoup4-4.6.0/doc/source/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/beautifulsoup4-4.6.0/scripts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/doc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/animation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/axes_grid1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/axisartist/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/color/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/event_handling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/frontpage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/images_contours_and_fields/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/lines_bars_and_markers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/misc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/mplot3d/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/pie_and_polar_charts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/pyplots/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/recipes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/scales/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/shapes_and_collections/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/showcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/specialty_plots/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/statistics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/style_sheets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/subplots_axes_and_figures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/text_labels_and_annotations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/ticks_and_spines/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/units/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/user_interfaces/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/userdemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/examples/widgets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/matplotlib/sphinxext/tests/tinypages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/animation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/axes_grid1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/axisartist/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/color/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/event_handling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/frontpage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/images_contours_and_fields/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/lines_bars_and_markers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/misc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/mplot3d/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/pie_and_polar_charts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/pyplots/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/recipes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/scales/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/shapes_and_collections/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/showcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/specialty_plots/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/statistics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/style_sheets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/subplots_axes_and_figures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/text_labels_and_annotations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/ticks_and_spines/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/units/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/user_interfaces/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/userdemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/lib/mpl_examples/widgets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/tutorials/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/tutorials/advanced/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/tutorials/colors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/tutorials/intermediate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/tutorials/introductory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/tutorials/text/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/tutorials/toolkits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/matplotlib-2.2.2/unit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/snownlp-0.12.3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/snownlp-0.12.3/build/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch20/snownlp-0.12.3/build/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch21/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python入门到实践/ch22/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +163,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1aS0fUnKaA4OQPwTR4CZ1msmojq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -55,10 +175,78 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitLocal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python入门到实践" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\python入门到实践" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.2.1">
+    <configuration name="2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python入门到实践/ch02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python入门到实践/ch02/2.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearnFishc/11/11-9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearnFishc/11/11-9/Python-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearnFishc/11/11-9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearnFishc/11/11-9/Python-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Turtle-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,9 +268,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Turtle-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearnFishc/11/11-6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearnFishc/11/11-6/Turtle-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.1" />
         <item itemvalue="Python.Turtle-1" />
+        <item itemvalue="Python.Turtle-2" />
+        <item itemvalue="Python.Python-1" />
+        <item itemvalue="Python.Python-3" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +310,35 @@
       <option name="presentableId" value="Default" />
       <updated>1586713791235</updated>
     </task>
+    <task id="LOCAL-00001" summary="2020-04-version-11-1">
+      <created>1586874064779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586874064780</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020-04-version-11-1">
+      <created>1586874192795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586874192795</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2020-04-version-11-1">
+      <created>1586879170229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586879170229</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2020-04-17-version-11">
+      <created>1587124314665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587124314665</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,71 +404,14 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="2020-04-version-11-1" />
+    <MESSAGE value="2020-04-17-version-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-04-17-version-11" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="523" y="201" key="#Notifications" timestamp="1586872050190">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1645448198614">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="523" y="201" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1586872050190" />
-    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1586714838152">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586714838152" />
-    <state x="494" y="238" key="Github.ShareDialog" timestamp="1586714221389">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="494" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1586714221389" />
-    <state x="498" y="45" key="Github.UntrackedFilesDialog" timestamp="1586714276875">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="498" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1586714276875" />
-    <state width="1259" height="135" key="GridCell.Tab.0.bottom" timestamp="1586873821089">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="135" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586873821089" />
-    <state width="1259" height="135" key="GridCell.Tab.0.center" timestamp="1586873821089">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="135" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586873821089" />
-    <state width="1259" height="135" key="GridCell.Tab.0.left" timestamp="1586873821088">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="135" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586873821088" />
-    <state width="1259" height="135" key="GridCell.Tab.0.right" timestamp="1586873821089">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="135" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586873821089" />
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1586872369382">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586872369382" />
-    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1586872369382">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586872369382" />
-    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1586872369382">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586872369382" />
-    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1586872369382">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586872369382" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1586868240987">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586868240987" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1586714367904">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1586714367904" />
-    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1586714292310">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1586714292310" />
-    <state x="303" y="1" key="search.everywhere.popup" timestamp="1586785576209">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586785576209" />
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1645448198614" />
   </component>
 </project>
